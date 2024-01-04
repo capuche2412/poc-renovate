@@ -1,0 +1,45 @@
+{
+    "name": "poc-renovate",
+    "version": "0.0.0",
+    "dependencies": {
+      "@angular/animations": "^16.2.1",
+      "@angular/cdk": "^16.2.1",
+      "@angular/common": "^16.2.1",
+      "@angular/compiler": "^16.2.1",
+      "@angular/core": "^16.2.1",
+      "@angular/forms": "^16.2.1",
+      "@angular/material": "^16.2.1",
+      "@angular/platform-browser": "^16.2.1",
+      "@angular/platform-browser-dynamic": "^16.2.1",
+      "@angular/router": "^16.2.1",
+      "@angular/upgrade": "^16.2.1",
+      "rxjs": "~7.8.0",
+      "tslib": "^2.0.0",
+      "uuid": "^9.0.0",
+      "zone.js": "~0.13.1"
+    },
+    "devDependencies": {
+      "@angular-builders/jest": "16.0.1",
+      "@angular-devkit/build-angular": "16.2.11",
+      "@angular-eslint/builder": "15.2.1",
+      "@angular-eslint/eslint-plugin": "15.2.1",
+      "@angular-eslint/eslint-plugin-template": "15.2.1",
+      "@angular-eslint/schematics": "16.3.1",
+      "@angular-eslint/template-parser": "15.2.1",
+      "@angular/cli": "16.2.11",
+      "@angular/compiler-cli": "16.2.12",
+      "@angular/language-service": "16.2.12",
+      "eslint": "8.56.0",
+      "eslint-plugin-import": "2.29.1",
+      "eslint-plugin-jsdoc": "latest",
+      "eslint-plugin-prefer-arrow": "latest",
+      "eslint-plugin-simple-import-sort": "10.0.0",
+      "eslint-plugin-unused-imports": "3.0.0",
+      "stylelint": "15.11.0",
+      "stylelint-config-clean-order": "5.2.0",
+      "stylelint-config-standard-scss": "8.0.0",
+      "ts-node": "10.9.2",
+      "typescript": "5.1.6"
+    }
+  }
+  
